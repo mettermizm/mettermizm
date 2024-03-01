@@ -8,6 +8,8 @@ Gömülü Programlama
 Web Geliştirme
 Masaüstü Program Geliştirme
 Mobil Native Program Geliştirme  
+
+
 🧠 Bilinen Diller
 
 Python
@@ -34,6 +36,8 @@ Embedded Programming
 Web Development
 Desktop Application Development
 Mobile Native App Development
+
+
 🧠 Known Languages
 
 Python
