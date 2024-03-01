@@ -26,8 +26,6 @@ Kod yazmak benim tutkum ve hayatımın önemli bir parçası. Yenilikçi projele
 
 <a target="_blank">[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-fidan-235b1b20a/)</a>
 
-[![instagram](https://seeklogo.com/images/I/instagram-new-2016-glyph-logo-84CB825424-seeklogo.com.png)](https://www.instagram.com/metter_mehmet/)
-
 
 EN: 
 
