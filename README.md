@@ -4,7 +4,7 @@ Merhaba! Ben Mehmet Fidan. Gömülü programlama, web geliştirme, masaüstü pr
 
 💼 Yapılabilir İşler
 
-Gömülü Programlama,<br>
+Gömülü Programlama<br>
 Web Geliştirme<br>
 Masaüstü Program Geliştirme<br>
 Mobil Native Program Geliştirme  <br>
@@ -12,14 +12,14 @@ Mobil Native Program Geliştirme  <br>
 
 🧠 Bilinen Diller
 
-Python
-C#
-HTML
-CSS
-JavaScript
-Node.js ve NPM paketleri
-PHP
-Flutter
+Python<br>
+C#<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
+Node.js ve NPM paketleri<br>
+PHP<br>
+Flutter<br>
 
 
 Kod yazmak benim tutkum ve hayatımın önemli bir parçası. Yenilikçi projeler geliştirmek ve teknolojiyle ilgili her zaman öğrenmeye açık olmak benim için önemli. 💻✨
@@ -34,22 +34,22 @@ Hello there! I'm Mehmet Fidan, a software developer with experience in embedded 
 
 💼 Skills
 
-Embedded Programming
-Web Development
-Desktop Application Development
-Mobile Native App Development
+Embedded Programming<br>
+Web Development<br>
+Desktop Application Development<br>
+Mobile Native App Development<br>
 
 
 🧠 Known Languages
 
-Python
-C#
-HTML
-CSS
-JavaScript
-Node.js and npm packages
-PHP
-Flutter
+Python<br>
+C#<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
+Node.js and npm packages<br>
+PHP<br>
+Flutter<br>
 
 
 Coding is my passion, and it's a significant part of my life. I enjoy working on innovative projects and I'm always eager to learn more about technology. 💻✨
