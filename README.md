@@ -4,10 +4,10 @@ Merhaba! Ben Mehmet Fidan. Gömülü programlama, web geliştirme, masaüstü pr
 
 💼 Yapılabilir İşler
 
-Gömülü Programlama
-Web Geliştirme
-Masaüstü Program Geliştirme
-Mobil Native Program Geliştirme  
+Gömülü Programlama,<br>
+Web Geliştirme<br>
+Masaüstü Program Geliştirme<br>
+Mobil Native Program Geliştirme  <br>
 
 
 🧠 Bilinen Diller
