@@ -20,6 +20,8 @@ JavaScript
 Node.js ve NPM paketleri
 PHP
 Flutter
+
+
 Kod yazmak benim tutkum ve hayatımın önemli bir parçası. Yenilikçi projeler geliştirmek ve teknolojiyle ilgili her zaman öğrenmeye açık olmak benim için önemli. 💻✨
 
 
@@ -48,4 +50,6 @@ JavaScript
 Node.js and npm packages
 PHP
 Flutter
+
+
 Coding is my passion, and it's a significant part of my life. I enjoy working on innovative projects and I'm always eager to learn more about technology. 💻✨
