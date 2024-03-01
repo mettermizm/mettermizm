@@ -1,16 +1,21 @@
-### Hi there 👋
+👨‍💻 Mehmet Fidan
 
-<!--
-**mettermizm/mettermizm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben Mehmet Fidan. Gömülü programlama, web geliştirme, masaüstü program geliştirme ve mobil native program geliştirme gibi çeşitli alanlarda deneyimli bir yazılım geliştiriciyim. 🚀
 
-Here are some ideas to get you started:
+💼 Yapılabilir İşler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gömülü Programlama
+Web Geliştirme
+Masaüstü Program Geliştirme
+Mobil Native Program Geliştirme
+🧠 Bilinen Diller
+
+Python
+C#
+HTML
+CSS
+JavaScript
+Node.js ve NPM paketleri
+PHP
+Flutter
+Kod yazmak benim tutkum ve hayatımın önemli bir parçası. Yenilikçi projeler geliştirmek ve teknolojiyle ilgili her zaman öğrenmeye açık olmak benim için önemli. 💻✨
