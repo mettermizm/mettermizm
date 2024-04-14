@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/mehmetfidan"><img src="https://api.daily.dev/devcards/v2/B2tYsklqCOBneEmDsBlfI.png?type=default&r=9v0" width="356" alt="Mehmet Fidan's Dev Card"/></a>
+
 👨‍💻 Mehmet Fidan
 
 Merhaba! Ben Mehmet Fidan. Gömülü programlama, web geliştirme, masaüstü program geliştirme ve mobil native program geliştirme gibi çeşitli alanlarda deneyimli bir yazılım geliştiriciyim. 🚀
